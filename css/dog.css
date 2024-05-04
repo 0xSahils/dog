@@ -1,136 +1,155 @@
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-body {
-  overflow-x: hidden;
+body{
+  overflow-x : hidden;
 }
-.d-flex {
+.d-flex{
   margin-right: 50px;
   width: 800px;
 }
-.container-fluid {
+.container-fluid{
   margin-left: 100px;
   font-size: 20px;
-  background-color: #ce8c8c;
+  background-color:  #ce8c8c;
 }
-.navbar-expand-lg {
-  background-color: #ce8c8c;
+.navbar-expand-lg{
+  background-color:  #ce8c8c;
 }
-.dg {
+.dg{
   margin-left: 1000px;
 }
-.headd {
+.headd{
   margin-top: -340px;
   margin-left: 500px;
 }
-.gd {
-  width: 500px;
-  padding: 10px;
-  margin-left: 500px;
+.gd{
+ 
+ width: 500px;
+ padding: 10px;
+ margin-left: 500px;
 }
-.dg2 {
+.dg2{
   height: 400px;
   width: 450px;
   margin-top: -242px;
 }
-.wrap {
+.wrap{
   border: 3px solid black;
   height: 505px;
-  background-color: #e9c874;
+  background-color:#E9C874;
 }
-.vid {
+.vid{
   margin-left: 50px;
   margin-top: 5px;
 }
-.headd2 {
+.headd2{
   display: flex;
   justify-content: end;
   align-items: end;
   margin-top: -240px;
   margin-right: 200px;
 }
-.gd2 {
-  background-color: rgb(247, 233, 215);
-  width: 600px;
-  margin-left: 800px;
-  padding: 10px;
-  font-size: 18px;
-  font-weight: 500;
-  font-style: oblique;
+.gd2{
+ background-color: rgb(247, 233, 215);
+ width: 600px;
+ margin-left: 800px;
+ padding: 10px;
+ font-size: 18px;
+ font-weight: 500;
+ font-style:oblique;
 }
-.btn-outline-primary {
+.btn-outline-primary{
   margin-left: 800px;
   width: 100px;
   margin-top: 20px;
 }
-.wrap3 {
+.wrap3{
   background-color: #9e8386;
   margin-top: 3px;
   border: 3px solid black;
   height: 450px;
 }
-.tit {
+.tit{
   margin-left: 47%;
   margin-top: 5px;
   color: white;
   margin-top: 30px;
 }
-.doc {
+.doc{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   margin-left: 80px;
 }
-.docc1 {
+.docc1{
   border: 3px solid black;
 }
-.docc2 {
+.docc2{
   border: 3px solid black;
 }
-.docc3 {
+.docc3{
   border: 3px solid black;
 }
-.paraa1 {
+.paraa1{
   display: flex;
   margin-left: 30%;
   color: white;
 }
-.paraa {
+.paraa{
   width: 600px;
   margin-left: 30%;
   color: white;
 }
-.sv {
+.sv{
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3,1fr);
   height: 300px;
+ 
 }
-.sv1 {
+.sv1{
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 10px;
 }
-.doccc2 {
+.doccc2{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   margin-left: 125px;
 }
-.docc1 {
+.docc1{
   border: 3px solid black;
 }
-.docc2 {
+.docc2{
   border: 3px solid black;
 }
-.docc3 {
+.docc3{
   border: 3px solid black;
 }
-.paraa11 {
+.paraa11{
   display: flex;
   margin-left: 8%;
   color: black;
 }
-.final {
-  background-color: #c0d6e8;
+.final{
+  background-color: #C0D6E8;
+}
+.more{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:lightgoldenrodyellow;
+  margin-bottom: 8px;
+}
+.bttnn{
+  padding: 2px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fback{
+  margin-left: 200px;
 }
